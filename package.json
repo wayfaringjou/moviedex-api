@@ -9,6 +9,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
+  "engines": {
+    "node": "15.2.1"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
